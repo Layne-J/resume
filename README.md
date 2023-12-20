@@ -1,2 +1,13 @@
 # resume
-My original github resume
+
+Im setting this as my first publicly available resume of my work
+The path to carreer chnage has been long and I think I'm ready to be not ready
+
+The collection here will have some different langs and usecases including:
+C++    Python    Java    Kotlin
+Backend Development
+Data Management
+App Development
+Basic Games to display language proficiency
+
+They aren't great, but they work and I do too.
